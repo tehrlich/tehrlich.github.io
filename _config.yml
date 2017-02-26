@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Tyler Ehrlich"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Tyler Ehrlich"
+description              : "Personal website of Tyler Ehrlich."
+url                      : "https://tylerehrlich.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "tlehrlich"
 facebook:
   username               :
   app_id                 :
@@ -77,22 +77,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Tyler Ehrlich"
+  avatar           : "/assets/images/me.jpg"
+  bio              : "Music Educator and Programmer"
+  location         : "Atlanta, GA"
+  email            : "tylerlehrlich@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "tehrlich"
   foursquare       :
-  github           :
+  github           : "tehrlich"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "tlehrlich"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -240,7 +240,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
+    # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

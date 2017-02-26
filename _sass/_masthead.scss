@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .masthead {
+  background-color: #fff;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -14,7 +15,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding-left: 1em; //TE: Default is "padding: 1em 1em 1em;"
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
