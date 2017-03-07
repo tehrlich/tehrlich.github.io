@@ -15,15 +15,11 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-<<<<<<< HEAD
-    padding-left: 1em; //TE: Default is "padding: 1em 1em 1em;"
-=======
     display: -webkit-box;
     display: flex;
     -webkit-box-pack: justify;
      justify-content: space-between;
-    padding: 1em 1em 1em;
->>>>>>> mmistakes/master
+    padding: .5em .5em .5em .5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {

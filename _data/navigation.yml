@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /assets/cv.pdf
   - title: "About"
     url: /about/
