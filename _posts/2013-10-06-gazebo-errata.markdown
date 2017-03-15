@@ -3,8 +3,8 @@ layout: single
 title: "Gazebo Dances: Errata"
 date:   2013-12-20
 categories: gazebo errata
-image:
-  feature: gazebo.png
+header:
+  image: /assets/images/gazebo.png
 ---
 <table class = "table table-striped">
 	<thead>

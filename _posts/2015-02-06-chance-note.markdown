@@ -3,10 +3,9 @@ layout: single
 title: "Symphony No. 2: Program Note"
 date:   2015-02-06
 categories: notes
-image:
-  feature: chance.png
+header:
+  image: /assets/images/chance.png
 ---
-## Symphony No. 2
 <h3>John Barnes Chance</h3>
 <b>Born November 20, 1932 in Beaumont, TX – Died August 16, 1972, Lexington, KY</b>
 

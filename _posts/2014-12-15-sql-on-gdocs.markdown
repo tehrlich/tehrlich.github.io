@@ -3,8 +3,8 @@ layout: single
 title: "Executing SQL Queries on Google Sheets"
 date:   2014-12-15
 categories: programming
-image:
-  feature: attendance.png
+header:
+  image: /assets/images/attendance.png
 ---
 
 This semester, I was tasked with logging attendance for the > 430 member Redcoat Marching Band. Going for the parsimonious solution, I logged the data in a Google Spreadsheet and accepted excused absence requests via a Qualtrics form. (I would have used a Google Form, but I needed to accept attachments.) These forms would be emailed to me immediately, and Google Inbox would bundle them and have them appear once a day at 7AM. This allowed me to process them in one sitting per day.

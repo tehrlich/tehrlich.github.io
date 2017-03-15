@@ -6,7 +6,9 @@ header:
   image:  /assets/images/recital.jpg
 ---
 
-Tyler Ehrlich is a second year Master’s graduate student at the University of Georgia studying conducting and completing his public school teaching certification. At UGA, Tyler's responsibilities involve all aspects of the band program including conducting, logistics, and instruction of the concert bands, undergraduate conducting courses, Contemporary Chamber Ensemble, and the Redcoat Marching Band.
+Tyler Ehrlich is an Atlanta-based music educator and conductor.
+
+Tyler holds a Master’s Degree in Conducting from the Hugh Hodgson School of Music at the University of Georgia. At UGA, Tyler's responsibilities involved all aspects of the band program including conducting, logistics, and instruction of the concert bands, undergraduate conducting courses, Contemporary Chamber Ensemble, and the Redcoat Marching Band.
 
 Tyler graduated <i>summa cum laude</i> from Cornell University where his studies concentrated in music and computer science. He served as a teaching assistant for the Cornell Wind Ensembles where his responsibilities included both conducting and administration. For three years Tyler assisted in conducting the Commencement Wind Ensemble with over 30,000 faculty, students, and family members in attendance. He also directed seven pit orchestras for Ithaca's largest student musical theater organization, The Melodramatics Theatre Company. During his final semester, Tyler conducted Cornell University's Mainstage musical, Stephen Sondheim’s <i>Company</i>. His principal conducting teachers in Ithaca were Cynthia Johnston Turner, Stephen Peterson, Chris Younghoon Kim, and James Spinazzola. As a clarinetist, Tyler performed with the Cornell Wind Ensembles, Symphony Orchestra, chamber ensembles, and premiered several student compositions.
 

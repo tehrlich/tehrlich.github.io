@@ -3,8 +3,8 @@ layout: single
 title: "Score Viewer for Glass"
 date:   2014-01-04
 categories: glass
-image:
-   feature: salient.png
+header:
+   image: /assets/images/salient.png
 ---
 
 After spending weeks looking into Android PDF libraries, the Mirror API seemed like a much more logical choice to use to deploy a musical score. Google supports several programming languages to use with the API: Go, Java, .NET, PHP, Python, and Ruby. Due to curiosity and a fondness for the language, I decided to use Python.
@@ -64,7 +64,7 @@ Any user with Glass can navigate to this page and install the score to <i>Armeni
 
 One clear limitation of Glass is the screen size. To combat this, Dr. Turner and I discussed the idea of a salient score that contains only the information necessary to conduct a work. As each conductor's needs are different, each individual would likely need to create his or her own salient score. This would allow the scores to be as minimalistic as possible. Below is one possible salient score of the opening of <i>Gazebo Dances</i>.
 
-<center><img src="/images/salient.png" alt="Salient" style="width: 600px;"/></center>
+<center><img src="/assets/images/salient.png" alt="Salient" style="width: 600px;"/></center>
 
 This score only contains time changes and other landmarks that are necessary to conduct the work. If a salient score is used in rehearsal, a full score is necessary to have nearby for reference.
 

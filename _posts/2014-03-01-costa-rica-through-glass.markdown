@@ -3,28 +3,9 @@ layout: single
 title: "Costa Rica Through Glass"
 date:   2014-03-01
 categories: glass
-image:
-  feature: costaricafeature.jpg
+header:
+  image: /assets/images/costaricafeature.jpg
 ---
-
-<script type="text/javascript">
-  $(window)
-    .load(function ()
-  {
-    $('.flexslider')
-      .flexslider(
-    {
-      animation: "slide",
-      slideshow: true,
-      start: function (slider)
-      {
-        $('body')
-          .removeClass('loading');
-      }
-    });
-  });
-</script>
-
 Back in January, the Cornell University Wind Ensemble returned to Costa Rica and Panama for its fifth service and performance tour. On this trip, we stopped at music schools throughout both countries, gave lessons (in Spanish), performed concerts, and donated instruments. This was a really wonderful end to my time at Cornell.
 
 While on the trip, I really wanted to try Word Lens in action. Although I took Spanish for a few years in middle and high school, I am still far from having a real conversation. This app would be super helpful while exploring the cities on our downtime.
@@ -48,19 +29,3 @@ While in David, CJT led a conducting masterclass. Below you can see their conduc
 In San Vito, Costa Rica, the students requested a jazz improvisation workshop. Led by our drummer, Colleen Clark, CU Winds members taught the basics of improv and provided an impromptu concert. Here is <i>Blue Bossa.</i>
 
 <center><iframe width="640" height="360" src="//www.youtube.com/embed/P7bC93Hf8Nc" frameborder="0" allowfullscreen></iframe></center>
-
-Here are some images I took through Glass while in Costa Rica and Panama.
-
-<center><div class="flexslider">
-<ul class="slides img-rounded">
-  <li><img src="/images/costarica/1.jpg" alt=""><p class="flex-caption">Clarinet sectionals before we leave.</p></li>
-  <li><img src="/images/costarica/3.jpg" alt=""><p class="flex-caption">Rehearsals led by CJT.</p></li>
-  <li><img src="/images/costarica/3b.jpg" alt=""><p class="flex-caption">Jonathan looking skeptical of Glass.</p></li>
-  <li><img src="/images/costarica/3a.jpg" alt=""><p class="flex-caption">Simrita and Clara on the bus driving through the countryside.</p></li>
-  <li><img src="/images/costarica/4.jpg" alt=""><p class="flex-caption">Bassoons warming up before our opening concert.</p></li>
-  <li><img src="/images/costarica/5.jpg" alt=""><p class="flex-caption">Performing Gandolfi's <i>Vientos y Tangos.</i></p></li>
-  <li><img src="/images/costarica/2.jpg" alt=""><p class="flex-caption">The clarinet section!</p></li>
-  <li><img src="/images/costarica/6.jpg" alt=""><p class="flex-caption">The saxophones!</p></li>
-  <li><img src="/images/costarica/9.jpg" alt=""><p class="flex-caption">Our final conducting masterclass in Panama.</p></li>
-</ul>
-</div></center>

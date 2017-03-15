@@ -3,8 +3,8 @@ layout: single
 title: "Streaming Photos from Glass"
 date:   2014-01-03
 categories: glass
-image:
-   feature: pictures.png
+header:
+   image: /assets/images/pictures.png
 ---
 
 One of the original ideas for Dr. Turner's research was to stream the conductor's perspective from Glass. Due to the limited power of the device, it is currently not possible to live stream without at least a half of a second of latency. To combat this problem, one idea was to take still images and show them to the audience.
@@ -13,7 +13,7 @@ There are two Android applications that are necessary to make this task possible
 
 “Tina Time-lapse” is an Android application that automatically takes pictures at a user-defined time interval. Other settings allow the user to set the image's resolution, quality, and location where the photo is saved. After installing the application using ADB, the image is initially distorted:
 
-<center><img src="/images/pictures.png" alt="distortion" style="width: 600px;"/></center>
+<center><img src="/assets/images/pictures.png" alt="distortion" style="width: 600px;"/></center>
 
 
 

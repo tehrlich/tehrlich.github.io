@@ -3,10 +3,9 @@ layout: single
 title: "Mare Tranquillitatis: Program Note"
 date:   2015-02-24
 categories: notes
-image:
-  feature: zare.png
+header:
+  image: /assets/images/zare.png
 ---
-## Mare Tranquillitatis (Sea of Tranquility)
 <h3>Roger Zare – Born 1985 in Sarasota, Florida</h3>
 
 *Mare Tranquillitatis*, or Sea of Tranquility, is a lunar plain that sits within the Tranquillitatis basin on Earth's only moon. The mare material within the basin consists of volcanic rocks formed over 3.9 billion years ago. Known for its irregular topography and stunningly beautiful bluish tint, the region consists of a variety of irregular margins and slopes. Apollo 11 and man’s first lunar steps took place on Mare Tranquillitatis, making it one of the most closely studied areas throughout astronomy.

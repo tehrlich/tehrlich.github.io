@@ -3,10 +3,9 @@ layout: single
 title: "Music for Wind Orchestra: Program Note"
 date:   2014-10-28
 categories: notes
-image:
-  feature: previn.png
+header:
+  image: /assets/images/previn.png
 ---
-## Music for Wind Orchestra (No Strings Attached)
 <h3>André George Previn – Born April 6, 1929 in Berlin, Germany</h3>
 
 The Hodgson Wind Ensemble is honored to premiere André Previn's first work for the wind band medium this evening, *Music for Wind Orchestra (No Strings Attached)*. Regarded as one of the most versatile living musicians today, Previn has won four Academy Awards for his film music and ten Grammy Awards for his recordings. He has toured the world as a jazz pianist, served as the music director of the Los Angeles Philharmonic and other world renowned orchestras, recorded hundreds of orchestral and solo piano works, and was subject of the Public Broadcasting Service musical documentary series by television, "Previn and the Pittsburgh".

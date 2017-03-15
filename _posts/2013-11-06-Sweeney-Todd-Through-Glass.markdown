@@ -3,8 +3,8 @@ layout: single
 title: "Sweeney Todd Through Glass"
 date:   2013-11-06
 categories: glass conducting
-image:
-  feature: sweeneyscore.png
+header:
+  image: /assets/images/sweeneyscore.png
 ---
 <i>Reposted from the CU Winds Google Glass blog available <a href="http://blogs.cornell.edu/cuwindsglass/2013/11/06/sweeney-todd-through-google-glass/">here</a>.</i>
 
@@ -25,7 +25,7 @@ Here's what you're seeing:
 
 >0:49: The percussion keyboard should be on bells, not xylophone.
 
->0:53: The violinist needed to change a string, so I <strong>quietly</strong> sing his part to myself. Doesn't 
+>0:53: The violinist needed to change a string, so I <strong>quietly</strong> sing his part to myself. Doesn't
 sound quiet here!
 >1:00: I look over the cellist to fix the intonation.
 

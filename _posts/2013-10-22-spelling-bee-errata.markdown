@@ -3,8 +3,8 @@ layout: single
 title: "Spelling Bee: Errata"
 date:   2013-10-22
 categories: errata
-image:
-  feature: spellingbee.png
+header:
+  image: /assets/images/spellingbee.png
 ---
 Here is an errata list for the MTI version of "The 25th Annual Putnam County Spelling Bee."
 <table>

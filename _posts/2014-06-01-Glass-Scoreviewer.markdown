@@ -3,8 +3,8 @@ layout: single
 title: "Score Viewer 2.0 for Glass"
 date:   2014-06-01
 categories: glass
-image:
-  feature: edward.jpg
+header:
+  image: /assets/images/edward.jpg
   credit: Andre, Cindi, and I all reading music notation from Glass.
 ---
 
