@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "tlehrlich"
+  username               : #"tlehrlich"
 facebook:
   username               :
   app_id                 :
@@ -87,12 +87,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "tehrlich"
+  facebook         : #"tehrlich"
   foursquare       :
   github           : "tehrlich"
   google_plus      :
   keybase          :
-  instagram        : "tlehrlich"
+  instagram        : #"tlehrlich"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -171,7 +171,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/ #/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
