@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Tyler Ehrlich"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Music Educator and Programmer"
+  bio              : #"Music Educator and Programmer"
   location         : "Atlanta, GA"
   email            : "tylerlehrlich@gmail.com"
   uri              :
