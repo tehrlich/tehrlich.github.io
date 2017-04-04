@@ -1,0 +1,19 @@
+---
+layout: single
+title: "Lincolnshire Posy: Program Note"
+date:   2016-02-01
+categories: notes
+header:
+  image: /assets/images/posy.png
+---
+<h3>Percy Aldridge Grainger</h3>
+
+It is difficult to name a more essential masterpiece composed in the last century for the wind band medium than *Lincolnshire Posy*. This collection of "musical wildflowers” (or a “posy”) serve as Percy Grainger’s homage to the singers to whom he listened throughout his journey of Lincolnshire, England in the beginning of the twentieth century. Grainger’s exploration is an early example of an ethnomusicological study, as the composer strived to capture not only the folk tunes, but embody the full character of each singer. The master orchestrator that he is, Grainger uses the full musical palette to depict each singer, including a variety of strophic form types, opaque and thin textures, asymmetrical time signatures, and “Bachian” contrapuntal techniques.
+
+This evening, the River Ridge Wind Ensemble will perform the first, second, fourth, and sixth movements from *Lincolnshire Posy*. Each of these movements feature copious amounts of text painting and symbolism. "Lisbon" opens with three solo instruments, perhaps representing three ships, and makes use of compound meter to provide an illusion of nautical imagery. "Horkstow Grange" tells the story of a fatal feud between an elderly man and his assistant; the solo trumpet featured in the middle of the movement represents the town crier recounting the tale to the people. The canon between the oboe and saxophone in "The Brisk Young Sailor" represent a quasi-operatic dialogue between the sailor and his lady. The final movement, "The Lost Lady Found", concludes with boisterous percussion and a tutti musical arrival, representing that the “lost lady” has been successfully found.
+
+*Program Note by Tyler Ehrlich*
+
+<hr />
+
+*Let me know if you use the above note! <a href="mailto:tylerlehrlich@gmail.com">Email me here.</a> (A citation would be great too!)*
