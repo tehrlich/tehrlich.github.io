@@ -22,10 +22,9 @@
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-              {% if link.pdf %}<i class="notrans fa fa-file-pdf-o"></i>{% endif %}
-            </li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}
+                  {% if link.pdf %}<i class="fas fa-file-pdf"></i>{% endif %}
+              </a></li>
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
