@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tyler Ehrlich"
 description              : "Personal website of Tyler Ehrlich."
-url                      : "http://tylerehrlich.com"
+url                      : "//tylerehrlich.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tehrlich/tehrlich.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
