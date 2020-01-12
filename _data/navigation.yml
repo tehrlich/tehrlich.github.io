@@ -5,8 +5,8 @@ main:
   - title: "CV"
     url: /assets/cv.pdf
     pdf: true
-  - title: "Rep"
-    url: /assets/rep.pdf
-    pdf: true
+#  - title: "Rep"
+#    url: /assets/rep.pdf
+#    pdf: true
   - title: "About"
     url: /about/
