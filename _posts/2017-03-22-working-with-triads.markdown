@@ -5,8 +5,10 @@ date:   2017-03-22
 categories: teaching
 header:
   image: /assets/images/theory.jpg
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
-{% include toc title="Contents" %}
 ## Introduction
 This past fall I completed the edTPA Assessment, a recent addition to the Georgia teaching licensure requirements. Since I enjoy teaching music theory, and our students had diverse levels of knowledge, my mentor teacher and I thought it would be wise to choose a relevant topic that was directly applicable from "theory" to daily ensemble skills.
 
