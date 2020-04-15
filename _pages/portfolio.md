@@ -3,7 +3,7 @@ layout: splash
 permalink: /portfolio/
 title: Teaching Portfolio
 header:
-  overlay_image:  /assets/images/portfolio.jpg
+  overlay_image:  /assets/images/portfolio2.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
   actions:
