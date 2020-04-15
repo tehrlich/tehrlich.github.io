@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   actions:
-  - label: "Contact"
+  - label: "Contact: ehrlich@cornell.edu"
     url: "mailto:tylerlehrlich@gmail.com"
 excerpt: "Applicant - Director of Bands, Decatur High School"
 intro1:
