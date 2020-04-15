@@ -34,7 +34,7 @@ feature_row:
   btn_label: "YouTube Link"
   btn_class: "btn--primary"
 intro2:
-  - excerpt: 'Here are additional resources representing my teaching experience at Centennial High School and Emory University.'
+  - excerpt: 'Here are additional resources representing my teaching experiences at Centennial High School and Emory University.'
 feature_row2:
 - image_path: /assets/images/midwest.gif
   alt: "December 2019 Presentation at the International Midwest Band and Orchestra Clinic"
@@ -47,7 +47,7 @@ feature_row3:
 - image_path: /assets/images/febconcert.gif
   alt: "Emory Wind Ensemble Concert – Feb 21, 2019"
   title: "Emory Wind Ensemble Concert – Feb 21, 2019"
-  excerpt: 'Here is the live stream for the February 21 Emory Wind Ensemble concert. (Decatur High School alumni Elise Kulers is playing clarinet here!)'
+  excerpt: 'Here is the live stream for the February 21 Emory Wind Ensemble concert. (Decatur High School alumnus Elise Kulers is playing clarinet here!)'
   url: "https://www.youtube.com/watch?v=LoHzK5X5814"
   btn_label: "YouTube Link"
   btn_class: "btn--primary"
@@ -55,9 +55,9 @@ feature_row4:
 - image_path: /assets/images/threeyearplan.gif
   alt: "Centennial Band 3-Year Plan"
   title: "Centennial Band 3-Year Plan"
-  excerpt: 'After my first year at Centennial, I compiled a document that assessed where we were as a band program, where we want to be, and methods to achieve those goals. I presented this to the principal to discuss ways the school administration could assist in these goals.'
+  excerpt: 'After my first year at Centennial, I compiled a document that assessed where we were as a band program, where we want to be, and methods to achieve those goals. I presented this to the principal to discuss ways the school administration could assist in improving the overall student experience for those in band.'
   url: "assets/threeyear.pdf"
-  btn_label: "Read More"
+  btn_label: "PDF Link"
   btn_class: "btn--primary"
 
 
