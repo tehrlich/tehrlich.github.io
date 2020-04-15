@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /portfolio/
-title: Teaching Portfolio
+title: Tyler Ehrlich's Teaching Portfolio
 header:
   overlay_image:  /assets/images/portfolio2.jpg
   overlay_color: "#000"
@@ -40,7 +40,7 @@ feature_row2:
   alt: "December 2019 Presentation at the International Midwest Band and Orchestra Clinic"
   title: "December 2019 Presentation at the International Midwest Band and Orchestra Clinic"
   excerpt: 'This past December I gave a presentation at the International Midwest Band and Orchestra Clinic in Chicago, IL. Over 18,000 music educators attend this clinic, and my session had over 100 people in attendance. I shared my slides and resources at the below link.'
-  url: "#test-link"
+  url: "/musictech-resources/"
   btn_label: "Blog Post"
   btn_class: "btn--primary"
 feature_row3:
