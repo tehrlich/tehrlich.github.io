@@ -9,12 +9,14 @@ header:
 feature_row2:
   - image_path: /assets/images/passionsoul.jpg
     alt: "December 2019 Presentation at the International Midwest Band and Orchestra Clinic"
-    title: "October 19 –– Passions of the Soul"
     excerpt: 'This program was based off of Decartes final treatise, where he theorizes on "the passions," or modern day emotions. <br/><br/> [Joyride](https://www.michaelmarkowski.com/music/joyride/), Michael Markowski <br/>
     [Mountain Lake Photograph](http://www.zackstantonmusic.com/news/2016/5/17/mountain-lake-photograph), Zach Stanton <br/>
     [“Voyages” for Solo Cello and Wind Orchestra](https://www.presser.com/115-40398-voyages.html), Steven Stucky <br/>
     [High Water Rising](https://www.sallylambmccune.com/original-music-pieces/), Sally Lamb McCune <br/>
     [First Suite in E-flat](https://www.windrep.org/First_Suite_in_E-flat), Gustav Holst'
+    url: "https://www.youtube.com/watch?v=LoHzK5X5814"
+    btn_label: "YouTube Link"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/febconcert.gif
     alt: "Emory Wind Ensemble Concert – Feb 21, 2019"
@@ -49,4 +51,5 @@ This program was based off of Decarte's final treatise, where he theorizes on "t
 ## "Fused" — Saturday, November 23rd, 2019
 This was a particularly exciting concert, as it was shared with the Emory University Symphony Orchestra, and a featured component of the [Emory Percussion Symposium](http://emorywindensemble.org/emory-percussion-symposium/). Our portion of the concert celebrated fusions of repertoire (musical material, )
 
+## "The Passions of the Soul" — Saturday, October 19, 2019
 {% include feature_row id="feature_row2" type="left" %}
