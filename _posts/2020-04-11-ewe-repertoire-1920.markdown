@@ -8,8 +8,8 @@ header:
   image: /assets/images/ewerep1920.jpg
 feature_row:
   - image_path: /assets/images/passionsoul.jpg
-    excerpt: 'This program was based off of Decarte&#39;s final treatise, where he theorizes on "the passions," or modern day emotions. <br/><br/> [Joyride](https://www.michaelmarkowski.com/music/joyride/), Michael Markowski <br/>
-    [Mountain Lake Photograph](http://www.zackstantonmusic.com/news/2016/5/17/mountain-lake-photograph), Zach Stanton <br/>
+    excerpt: 'This program was based off of Decarte&#39;s final treatise, "The Passions of the Soul", where he theorizes on the passions, or modern day emotions. <br/><br/> [Joyride](https://www.michaelmarkowski.com/music/joyride/), Michael Markowski <br/>
+    [Mountain Lake Photograph](http://www.zackstantonmusic.com/news/2016/5/17/mountain-lake-photograph), Zack Stanton <br/>
     [“Voyages” for Solo Cello and Wind Orchestra](https://www.presser.com/115-40398-voyages.html), Steven Stucky <br/>
     [High Water Rising](https://www.sallylambmccune.com/original-music-pieces/), Sally Lamb McCune <br/>
     [First Suite in E-flat](https://www.windrep.org/First_Suite_in_E-flat), Gustav Holst'
@@ -25,7 +25,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
       - image_path: /assets/images/febconcert.jpg
-        excerpt: 'This program explored child-like lightheadedness, wonderment, and unbridled joy. We also explored several non-traditional suprise elements: "surround sound" choir, a dancer, lighting changes, and interactive audience doodles.  <br/><br/>
+        excerpt: 'This program explored child-like lightheadedness, wonderment, and unbridled joy. We also explored several non-traditional surprise elements: "surround sound" choir, dance, lighting changes, and interactive audience doodles.  <br/><br/>
         [Consort for Ten Winds](https://www.windrep.org/Consort_for_Ten_Winds), Robert Spittal <br/>
         [Children&#39;s March](https://www.windrep.org/Children%27s_March_(rev_Rogers)), Percy Grainger –– with members of the Emory Choirs <br/>
         [Mare Tranquillitatis](http://www.rogerzare.com/mare_tranquillitatis.htm), Roger Zare<br/>
@@ -37,7 +37,7 @@ feature_row3:
         btn_class: "btn--primary"
 feature_row4:
       - image_path: /assets/images/febconcert.gif
-        excerpt: 'This program explored tradition and unorthodoxy in American music for winds. <br/><br/>
+        excerpt: 'This program explored tradition and unorthodoxy in American music for winds. Sadly, due to COVID-19, the concert never took place.<br/><br/>
         Carpe Diem, Sam Edwards ’20 –– Student commission and premiere <br/>
         [Esprit de Corps](https://www.windrep.org/Esprit_de_Corps_(Jager)), Robert Jager <br/>
         [Resonances I](https://www.windrep.org/Resonances_I), Ron Nelson<br/>
@@ -46,7 +46,7 @@ feature_row4:
         [A Mother of a Revolution!](https://www.omarthomas.com/a-mother-of-a-revolution), Omar Thomas'
 
 ---
-Serving as the conductor of the Emory Wind Ensemble for the 2019-2020 year was an absolutely joy. Over the course of the year, we explored a lot of exciting repertoire, for the students and me.
+Serving as the conductor of the Emory Wind Ensemble for the 2019-2020 year was an absolute joy and pleasure. Over the course of the year, we explored a lot of exciting repertoire, shared below.
 
 ## "The Passions of the Soul" -- Saturday, October 19, 2019
 {% include feature_row id="feature_row" type="left" %}
