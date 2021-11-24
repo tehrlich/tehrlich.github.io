@@ -106,11 +106,8 @@ author:
   avatar           : "/assets/images/headshot.jpg"
   bio              : #
   location         : "Atlanta, GA"
-  email            : "tylerlehrlich@gmail.com"
+  email            : "ehrlich@cornell.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ehrlich@cornell.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://tylerehrlich.com"
