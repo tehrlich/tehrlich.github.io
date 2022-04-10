@@ -7,7 +7,6 @@ classes: wide
 header:
   image: /assets/images/job.png
 ---
-## Preface
 Last school year, I gave a talk to students in the Kennesaw State University Wind Ensemble about landing their first jobs as public school band directors. I went through my own school change the prior year, and during the process, I took copious notes about updating my materials, corresponding with administrators, and the interview process. My hope was that this information would be helpful to incoming first-year teachers.
 
 The slides from the talk are below; feel free to e-mail me if I can help. Best of luck!
