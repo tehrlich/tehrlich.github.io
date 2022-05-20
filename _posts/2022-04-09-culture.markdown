@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Classroom Culture, Fundamentals, and Pacing in the Secondary Music Classroom"
+title: "Culture, Fundamentals, and Pacing in the Secondary Music Classroom"
 date:   2022-04-09
 categories: teaching
 classes: wide
