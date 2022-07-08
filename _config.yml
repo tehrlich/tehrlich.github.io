@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Tyler Ehrlich"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Musician, Educator, Conductor"
 name                     : "Tyler Ehrlich"
 description              : "Personal website of Tyler Ehrlich."
 url                      : "//tylerehrlich.com"
