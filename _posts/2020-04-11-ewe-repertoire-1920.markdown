@@ -37,7 +37,7 @@ feature_row3:
         btn_class: "btn--primary"
 feature_row4:
       - image_path: /assets/images/febconcert.gif
-        excerpt: 'This program explored tradition and unorthodoxy in American music for winds. Sadly, due to COVID-19, the concert never took place.<br/><br/>
+        excerpt: 'This program explored tradition and unorthodoxy in American music for winds. Sadly, due to the COVID-19 pandemic, the concert never took place.<br/><br/>
         Carpe Diem, Sam Edwards ’20 –– Student commission and premiere <br/>
         [Esprit de Corps](https://www.windrep.org/Esprit_de_Corps_(Jager)), Robert Jager <br/>
         [Resonances I](https://www.windrep.org/Resonances_I), Ron Nelson<br/>
@@ -57,5 +57,5 @@ Serving as the conductor of the Emory Wind Ensemble for the 2019-2020 year was a
 ## "Child's Play" -- Friday, February 21, 2020
 {% include feature_row id="feature_row3" type="left" %}
 
-## "Tis of Thee" -- Friday, April 17, 2020 (Cancelled due to COVID-19.)
+## "Tis of Thee" -- Friday, April 17, 2020
 {% include feature_row id="feature_row4" type="right" %}
