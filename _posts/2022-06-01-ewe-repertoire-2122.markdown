@@ -40,6 +40,8 @@ feature_row4:
    DWAYNE MILBURN: Meditation<br/>
    FRANK TICHELI: Nitro'
 ---
+## Emory Wind Ensemble Repertoire, 2021-2022
+
 While I'm excited to move to Austin this summer, I'll miss my time working with the Emory Wind Ensemble. We played some fantastic repertoire this year, all shared below.
 
 ## 'Tis of Thee II -- Sunday, October 24, 2021

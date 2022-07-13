@@ -46,6 +46,8 @@ feature_row4:
         [A Mother of a Revolution!](https://www.omarthomas.com/a-mother-of-a-revolution), Omar Thomas'
 
 ---
+## Emory Wind Ensemble Repertoire, 2019-2020
+
 Serving as the conductor of the Emory Wind Ensemble for the 2019-2020 year was an absolute joy and pleasure. Over the course of the year, we explored a lot of exciting repertoire, shared below.
 
 ## "The Passions of the Soul" -- Saturday, October 19, 2019
