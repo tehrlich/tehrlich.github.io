@@ -12,7 +12,7 @@ feature_row:
     excerpt: 'This program explored tradition and unorthodoxy in American music for the wind band. The "two" comes from the fact that this repertoire was originally rehearsed for our concert in April 2020. A year and a half later, we were able to reprise the same music and share it with an in-person audience.<br/><br/>
     ROBERT JAGER: Esprit de Corps <br/>
     RON NELSON: Resonances I<br/>
-    DAVID MASLANKSA: California <br/>
+    DAVID MASLANKA: California <br/>
     FRANK TICHELI: Blue Shades <br/>
     OMAR THOMAS: A Mother of a Revolution!'
 feature_row2:

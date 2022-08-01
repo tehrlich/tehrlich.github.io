@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tyler Ehrlich"
+  name             : #"Tyler Ehrlich"
   avatar           : "/assets/images/headshot.jpg"
   # bio              : "Educator, Musician, Conductor"
   location         : "Austin, TX"
-  email            : "ehrlich@cornell.edu"
+  email            : "tehrlich@utexas.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
