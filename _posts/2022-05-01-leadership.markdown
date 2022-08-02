@@ -92,7 +92,7 @@ Building a positive and supportive community of musicians was not something that
 ### Talent is Overrated
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/talentisoverrated.jpg" alt="Talent is Overrated">{: .align-right}[Penguin Publishing Group](https://www.amazon.com/Talent-Overrated-Separates-World-Class-Performers/dp/1591842948) – **Geoff Colvin.**
 
-"I'm just not that talented." I heard this *repeatedly* from students and parents alike. This book is a great resource for dispelling the myth that talent (and not focused effort) is the key to success. Colvin defines deliberate practice and its strategies. There is no doubt that this book could improve the practice strategies of any musician.
+"I'm just not that talented." I heard this *repeatedly* from students and parents alike. This book is a great resource for dispelling the myth that talent (and not focused effort) is the key to success. Colvin defines deliberate practice and its role in rapid improvement.
 
 ### Atomic Habits
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/atomichabits.png" alt="Atomic Habits">{: .align-left}[Penguin Random House](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) – **James Clear.**
