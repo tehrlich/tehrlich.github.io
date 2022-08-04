@@ -30,7 +30,7 @@ feature_row2:
 
 # Preface
 
-Teaching student leadership training was one part of being an educator that I was sorely unprepared for when I started teaching. Through attending programs like the Conn-Selmer Institute and Music For All Summer Symposium, reading books like the ones listed below, and collaborating with colleagues, I found my own voice and developed an effective curriculum for teaching my students.
+Teaching student leadership training was one part of being an educator that I was sorely unprepared for when I started teaching. By attending programs like the Conn-Selmer Institute and Music For All Summer Symposium, reading books like the ones listed below, and collaborating with colleagues, I found my own voice and developed an effective curriculum for teaching my students.
 
 # Sample Slide Decks
 
