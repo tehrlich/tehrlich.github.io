@@ -34,9 +34,9 @@ Teaching student leadership training was one part of being an educator that I wa
 
 # Sample Slide Decks
 
-The three slide decks below are what I believe to be my “best of” for student leadership training. They include a combination of abstract concepts (how to be an effective student leader) alongside concrete ones (job descriptions and responsibilities.) I found that while students benefitted from hearing about my philosophy and role of leadership, it was even more important to define what duties eat position entailed. Perhaps more importantly, the training defined student responsibilities versus director responsibilities. All of this front-loading of information allowed us to have a positive experience during the season.
+The three slide decks below are what I believe to be my “best of” for student leadership training. They include a combination of abstract concepts (how to be an effective student leader) alongside concrete ones (job descriptions and responsibilities.) I found that while students benefited from hearing about my philosophy and role of leadership, it was even more important to define what duties eat position entailed. Additionally, the training defined student responsibilities versus director responsibilities. All of this front-loading of information allowed us to have a positive experience during the season.
 
-These slides are non-exhaustive, and over the years, I made adjustments to the order of concepts during instruction. Additionally, I found that some content was better suited for only student leaders, and some were better for the full ensemble. I also hoped to weave more training into the curricular class periods as well.
+These slides are non-exhaustive, and over the years, I made adjustments to the order of concepts during instruction. Also, I found that some information was better suited for only student leaders, and some was better for the full ensemble. I also hoped to weave more training into the curricular class periods as well.
 
 All of the below information is based on the external resources listed at the bottom of the page, as well as my experience working with Michael Reid, my former colleague at Centennial High School. Don’t hesitate to reach out with any questions.
 
@@ -97,4 +97,4 @@ Building a positive and supportive community of musicians was not something that
 ### Atomic Habits
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/atomichabits.png" alt="Atomic Habits">{: .align-left}[Penguin Random House](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) – **James Clear.**
 
-This is the latest book that positively impacted the way I teach student leadership (and focus on my own growth as a musician and teacher). Clear introduces the steps of building good habits, discusses how systems can be more important than goals, and most importantly, breaks down how incremental change is the key to lasting success.
+This is the latest book I read that positively impacted the way I teach student leadership (and focus on my own growth as a musician and teacher). Clear introduces the steps of building good habits, discusses how systems can be more important than goals, and most importantly, breaks down how incremental change is the key to lasting success.
