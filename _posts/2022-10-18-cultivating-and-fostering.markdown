@@ -5,8 +5,9 @@ date:   2022-10-18
 categories: teaching
 classes: wide
 header:
-  image: /assets/images/osu.jpg
+  image: /assets/images/cultivate.svg
 ---
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
