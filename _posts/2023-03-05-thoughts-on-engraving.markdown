@@ -49,8 +49,7 @@ One of my primary goals is to be a good steward of your music. I believe by cons
 
 ---
 
-# Considerations When Programming
-
+## Considerations When Programming
 Before I was a graduate student, I conducted the wind ensemble at Emory University for three years. The Emory University Wind Ensemble consists of fixed personnel who are not music majors but choose to keep the arts in their life while pursuing other careers. I believe there are many universities across the country that face their own unique challenges when programming music.
 
 My intention is not to dissuade anyone from non-standard choices, but only to offer that at times, limited resources can prevent a piece from being programmed.
