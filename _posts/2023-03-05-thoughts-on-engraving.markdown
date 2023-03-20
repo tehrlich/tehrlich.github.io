@@ -43,7 +43,7 @@ One of my primary goals is to be a good steward of your music. I believe by cons
 
 - **Harp:** Is your writing feasible and idiomatic?
 - **Double Bass:** Is pizz. and arco always labeled as appropriate?
-- **Brass:** When mutes are used, is senza also indicated? Is a specific mute indicated?
+- **Brass:** When mutes are used, is senza also indicated? Is a specific mute indicated? Do players have enough time to insert or remove mutes?
 - **Glissandi:** If a full-duration glissando is desired, is this marked?
 - **Hairpins:** Do hairpins contains starting and ending dynamics?
 
