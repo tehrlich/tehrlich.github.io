@@ -8,7 +8,7 @@ header:
   image:
 ---
 
-<font size="3"> <i>This was originally a handout linked <a href="https://docs.google.com/document/d/1e_6n1gPJ0XBfw9RujPAbxKKQF9BN_wa4t66WX417b-k/edit">here</a>.</i> </font>
+<font size="3"> <i>This was originally a handout linked <a href="https://docs.google.com/document/d/1lnQJ01YNkYzIjj4ZuNKhiwddOONbJ8HBs4yPWMUtD20/edit?usp=sharing">here</a>.</i> </font>
 
 ## Introduction
 One of my primary goals is to be a good steward of your music. I believe by considering the below factors, the reading session or concert preparation will allow the musicians to focus on the music—versus simply the notation—which should yield a product that will make you proud. The below ideas are based on conducting several hundred pieces of music and over a dozen student compositions.
