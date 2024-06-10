@@ -16,11 +16,6 @@
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}
                 {% if link.pdf %}<i class="fas fa-file-pdf"></i>{% endif %}</a>
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
