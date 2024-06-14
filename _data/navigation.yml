@@ -1,10 +1,10 @@
 # main links
 main:
+  - title: "CV"
+    url: /assets/cv.pdf
+    pdf: true
   - title: "Blog"
     url: /blog/
-  # - title: "CV"
-  #   url: /assets/cv.pdf
-  #   pdf: true
 #  - title: "Rep"
 #    url: /assets/rep.pdf
 #    pdf: true

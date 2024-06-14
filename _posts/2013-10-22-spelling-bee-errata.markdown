@@ -16,7 +16,7 @@ Here is an errata list for the MTI version of "The 25th Annual Putnam County Spe
 	<tr>
 		<td>Score</td>
 		<td>1, m. 3</td>
-		<td>The score says “first time only”, but there is no repeat at all. Very odd.</td>
+		<td>The score says “first time only”, but there is no repeat at all.</td>
 	</tr>
 	<tr>
 		<td>Score</td>

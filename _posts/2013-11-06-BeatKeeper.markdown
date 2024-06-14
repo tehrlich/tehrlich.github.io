@@ -4,6 +4,8 @@ title: "BeatKeeper Version 1.0"
 date:   2013-11-06
 categories: glass
 ---
+<i>Note: this post is now sorely out of date, complete with broken links and images. Nonetheless I think it's valuable to leave up for posterity.</i>
+
 <i>Reposted from the CU Winds Google Glass blog available <a href="http://blogs.cornell.edu/cuwindsglass/2013/11/06/beatkeeper-version-1-0/">here</a>.</i>
 
 <p>Cindi and I spent a few hours two weeks ago getting BeatKeeper up and running on Glass. After cloning the repository on my local machine, I imported the app into Eclipse and pushed it to the device. We were immediately presented with something that looks like this:</p>
