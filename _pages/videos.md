@@ -31,7 +31,7 @@ feature_row3:
   btn_label: "YouTube Link"
   btn_class: "btn--info"
 feature_row2:
-- image_path: /assets/images/gwb.png
+- image_path: /assets/images/GWB.png
   alt: "John Philip Sousa: George Washington Bicentennial"
   title: 'John Philip Sousa: George Washington Bicentennial'
   excerpt: 'Live performance by the Decatur High School Wind Ensemble <br> March 11, 2022 &mdash; Large Group Performance Evaluation'
