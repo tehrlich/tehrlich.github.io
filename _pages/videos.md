@@ -22,9 +22,17 @@ feature_row1:
   url: "https://www.youtube.com/watch?v=D7QW4853Grc"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
+feature_row4:
+- image_path: /assets/images/masquerade.jpg
+  alt: "The University of Texas Wind Symphony – September 27, 2024"
+  title: 'Vincent Persichetti: Masquerade, Op. 102'
+  excerpt: "Live performance by The University of Texas Wind Symphony. <br> September 27, 2024"
+  url: "https://youtu.be/QEPgCw3aDgQ?"
+  btn_label: "YouTube Link"
+  btn_class: "btn--info"
 feature_row3:
 - image_path: /assets/images/higdon.jpg
-  alt: "Emory Wind Ensemble Concert – Feb 21, 2019"
+  alt: "The University of Texas Wind Symphony – October 21, 2022"
   title: 'Jennifer Higdon: Mysterium'
   excerpt: "Live performance by The University of Texas Wind Symphony. <br> October 21, 2022 &mdash; Micah Bronaugh and Sophie Maness, soloists"
   url: "https://youtu.be/HgC-XK3q8pU"
@@ -34,7 +42,7 @@ feature_row2:
 - image_path: /assets/images/GWB.png
   alt: "John Philip Sousa: George Washington Bicentennial"
   title: 'John Philip Sousa: George Washington Bicentennial'
-  excerpt: 'Live performance by the Decatur High School Wind Ensemble <br> March 11, 2022 &mdash; Large Group Performance Evaluation'
+  excerpt: 'Live performance by the Decatur High School Wind Ensemble. <br> March 11, 2022 &mdash; Large Group Performance Evaluation'
   url: "https://www.youtube.com/watch?v=fuNlGHmLfRk"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
@@ -47,6 +55,8 @@ feature_row2:
 
 {% include feature_row id="feature_row" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row2" type="left" %}
