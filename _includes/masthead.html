@@ -15,7 +15,11 @@
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}
-                {% if link.pdf %}<i class="fas fa-file-pdf"></i>{% endif %}</a>
+                {% if link.pdf %}<i class="fas fa-file-pdf"></i>{% endif %}
+                {% if link.video %}<i class="fas fa-video"></i>{% endif %}
+                {% if link.about %}<i class="fas fa-person"></i>{% endif %} 
+                {% if link.rep %}<i class="fas fa-list"></i>{% endif %} 
+                {% if link.blog %}<i class="fas fa-pencil"></i>{% endif %}</a>
             </li>
           {%- endfor -%}
         </ul>

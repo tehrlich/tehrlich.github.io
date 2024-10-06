@@ -3,10 +3,15 @@ main:
   - title: "CV"
     url: /assets/cv.pdf
     pdf: true
+  - title: "Videos"
+    url: /videos
+    video: true
+  - title: "Repertoire"
+    url: "https://docs.google.com/spreadsheets/d/1lzCmloGfbLfW5uarpPB55iQpgKa8cjvZpHfVaqrYws8/edit?gid=0#gid=0"
+    rep: true
   - title: "Blog"
     url: /blog/
-#  - title: "Rep"
-#    url: /assets/rep.pdf
-#    pdf: true
+    blog: true    
   - title: "About"
     url: /about/
+    about: true 
