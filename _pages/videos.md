@@ -16,8 +16,8 @@ feature_row:
   btn_class: "btn--info"
 feature_row1:
 - image_path: /assets/images/bassclarinet.jpg
-  alt: "Ryan Lindveit: Branching Brain from Bass Clarinet Concerto"
-  title: 'Ryan Lindveit: Branching Brain from Bass Clarinet Concerto'
+  alt: "Ryan Lindveit: Branching Brain"
+  title: 'Ryan Lindveit: Branching Brain'
   excerpt: "Live performance from 89.5 KMFA's Draylen Mason Music Studio. <br> February 16, 2024 &mdash; Matthew Rockwell, bass clarinet"
   url: "https://www.youtube.com/watch?v=D7QW4853Grc"
   btn_label: "YouTube Link"
@@ -26,7 +26,7 @@ feature_row4:
 - image_path: /assets/images/masquerade.jpg
   alt: "The University of Texas Wind Symphony – September 27, 2024"
   title: 'Vincent Persichetti: Masquerade, Op. 102'
-  excerpt: "Live performance by The University of Texas Wind Symphony. <br> September 27, 2024"
+  excerpt: "Live performance by The University of Texas Wind Symphony. <br> September 27, 2024 &mdash; Bates Recital Hall"
   url: "https://youtu.be/QEPgCw3aDgQ?"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
@@ -46,10 +46,19 @@ feature_row2:
   url: "https://www.youtube.com/watch?v=fuNlGHmLfRk"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
+feature_row5:
+- image_path: /assets/images/bonds.png
+  alt: "Margaret Bonds: Spiritual Suite"
+  title: 'Margaret Bonds: Spiritual Suite'
+  excerpt: 'Premiere of the band transcription by The University of Texas Wind Ensemble. <br> October 13, 2024 &mdash; Bates Recital Hall'
+  url: "https://www.youtube.com/watch?v=k6vMIRzFfjw"
+  btn_label: "YouTube Link"
+  btn_class: "btn--info"
 
 
 ---
 
+{% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
