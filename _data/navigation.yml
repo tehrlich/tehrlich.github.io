@@ -6,9 +6,9 @@ main:
   - title: "Videos"
     url: /videos
     video: true
-  - title: "Repertoire"
-    url: "https://docs.google.com/spreadsheets/d/1lzCmloGfbLfW5uarpPB55iQpgKa8cjvZpHfVaqrYws8/edit?gid=0#gid=0"
-    rep: true
+  # - title: "Repertoire"
+  #   url: "https://docs.google.com/spreadsheets/d/1lzCmloGfbLfW5uarpPB55iQpgKa8cjvZpHfVaqrYws8/edit?gid=0#gid=0"
+  #   rep: true
   - title: "Blog"
     url: /blog/
     blog: true    
