@@ -4,7 +4,7 @@ title: "Margaret Bonds: Spiritual Suite for Wind Ensemble"
 date:   2024-12-29
 classes: 
 header:
-  image: /assets/images/bonds2.png
+  image: /assets/images/bonds2.jpg
 toc: true
 toc_sticky: true
 ---
