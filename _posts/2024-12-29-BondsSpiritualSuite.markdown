@@ -74,6 +74,12 @@ To purchase paper copies ($200), please visit <a href="https://murphymusicpress.
 
 *The goal of creating this transcription is to bring musicians and audiences to the music of Margaret Bonds. If these costs are prohibitive to this mission, please <a href="mailto:tehrlich@utexas.edu.">contact me.</a>*
 
+## Lecture Recital
+
+The below video from my lecture recital offers a brief overview of the work, and delves into specific orchestration challenges in each movement.
+
+{% include video id="UzHrfqxUC9s" provider="youtube" %}
+
 ## Acknowledgements
 
 This transcription was completed in partial fulfillment of the Doctor of Musical Arts degree at The University of Texas at Austin. I am indebted to my committee members for their mentorship: Jerry Junkin (chair), Donald Grantham, Omar Thomas, Kevin Sedatole, and Marc Sosnowchik.
