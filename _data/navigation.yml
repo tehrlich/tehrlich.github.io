@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "CV"
-    url: /assets/cv.pdf
-    pdf: true
+  # - title: "CV"
+  #   url: /assets/cv.pdf
+  #   pdf: true
   - title: "Videos"
     url: /videos
     video: true
