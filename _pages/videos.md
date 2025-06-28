@@ -4,9 +4,15 @@ permalink: /videos/
 title: Performance Videos
 header:
   image:  /assets/images/symband.jpg
-intro1:
-- excerpt: 'These first examples are resources created through video editing and our online learning platform (Microsoft Teams) to connect with students during the COVID-19 school closure. We have been successful in continuing to engage students and support them through formal and informal methods.'
-feature_row:
+CuongJJ:
+- image_path: /assets/images/johnandjim.jpg
+  alt: "Viet Cuong: John and Jim"
+  title: "Viet Cuong: John and Jim"
+  excerpt: "Recorded at the Butler School of Music with musicians from Central Texas. <br> June 8, 2025 &mdash; Viet Cuong and Adrian Sims, producers"
+  url: "https://www.youtube.com/watch?v=vnMKvC3tzlo"
+  btn_label: "YouTube Link"
+  btn_class: "btn--info"
+CuongOboe:
 - image_path: /assets/images/oboeconcerto2.jpg
   alt: "Viet Cuong: Extra(ordinarily) Fancy"
   title: "Viet Cuong: Extra(ordinarily) Fancy"
@@ -14,7 +20,7 @@ feature_row:
   url: "https://www.youtube.com/watch?v=aMqdyLDCPhc"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
-feature_row1:
+Lindveit:
 - image_path: /assets/images/bassclarinet.jpg
   alt: "Ryan Lindveit: Branching Brain"
   title: 'Ryan Lindveit: Branching Brain'
@@ -22,7 +28,7 @@ feature_row1:
   url: "https://www.youtube.com/watch?v=D7QW4853Grc"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
-feature_row4:
+Persichetti:
 - image_path: /assets/images/masquerade.jpg
   alt: "The University of Texas Wind Symphony – September 27, 2024"
   title: 'Vincent Persichetti: Masquerade, Op. 102'
@@ -30,7 +36,7 @@ feature_row4:
   url: "https://youtu.be/QEPgCw3aDgQ?"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
-feature_row3:
+Higdon:
 - image_path: /assets/images/higdon.jpg
   alt: "The University of Texas Wind Symphony – October 21, 2022"
   title: 'Jennifer Higdon: Mysterium'
@@ -38,7 +44,7 @@ feature_row3:
   url: "https://youtu.be/HgC-XK3q8pU"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
-feature_row2:
+Sousa:
 - image_path: /assets/images/GWB.png
   alt: "John Philip Sousa: George Washington Bicentennial"
   title: 'John Philip Sousa: George Washington Bicentennial'
@@ -46,7 +52,7 @@ feature_row2:
   url: "https://www.youtube.com/watch?v=fuNlGHmLfRk"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
-feature_row5:
+Bonds:
 - image_path: /assets/images/bonds.png
   alt: "Margaret Bonds: Spiritual Suite"
   title: 'Margaret Bonds: Spiritual Suite'
@@ -58,14 +64,16 @@ feature_row5:
 
 ---
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="CuongJJ" type="left" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="Bonds" type="right" %}
 
-{% include feature_row id="feature_row" type="right" %}
+{% include feature_row id="Lindveit" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="CuongOboe" type="right" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="Persichetti" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="Higdon" type="right" %}
+
+{% include feature_row id="Sousa" type="left" %}
