@@ -12,6 +12,14 @@ CuongJJ:
   url: "https://www.youtube.com/watch?v=vnMKvC3tzlo"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
+GranPartita:
+- image_path: /assets/images/granpartita.png
+  alt: "W.A. Mozart: Serenade No.10, K.361/370a, 'Gran Partita'"
+  title: "W.A. Mozart: Serenade No.10, K.361/370a, 'Gran Partita'"
+  excerpt: "Live performance from 89.5 KMFA's Draylen Mason Music Studio. <br> Midday Concert Series &mdash; May 13, 2025"
+  url: "https://www.youtube.com/watch?v=9_-j23sPmZg"
+  btn_label: "YouTube Link"
+  btn_class: "btn--info"
 CuongOboe:
 - image_path: /assets/images/oboeconcerto2.jpg
   alt: "Viet Cuong: Extra(ordinarily) Fancy"
@@ -66,14 +74,16 @@ Bonds:
 
 {% include feature_row id="CuongJJ" type="left" %}
 
-{% include feature_row id="Bonds" type="right" %}
+{% include feature_row id="GranPartita" type="right" %}
 
-{% include feature_row id="Lindveit" type="left" %}
+{% include feature_row id="Bonds" type="left" %}
 
-{% include feature_row id="CuongOboe" type="right" %}
+{% include feature_row id="Lindveit" type="right" %}
 
-{% include feature_row id="Persichetti" type="left" %}
+{% include feature_row id="CuongOboe" type="left" %}
 
-{% include feature_row id="Higdon" type="right" %}
+{% include feature_row id="Persichetti" type="right" %}
 
-{% include feature_row id="Sousa" type="left" %}
+{% include feature_row id="Higdon" type="left" %}
+
+{% include feature_row id="Sousa" type="right" %}
