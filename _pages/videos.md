@@ -16,7 +16,7 @@ GranPartita:
 - image_path: /assets/images/granpartita.png
   alt: "W.A. Mozart: Serenade No.10, K.361/370a, 'Gran Partita'"
   title: "W.A. Mozart: Serenade No.10, K.361/370a, 'Gran Partita'"
-  excerpt: "Live performance from 89.5 KMFA's Draylen Mason Music Studio. <br> Midday Concert Series &mdash; May 13, 2025"
+  excerpt: "Live performance from 89.5 KMFA's Draylen Mason Music Studio. <br> May 13, 2025 &mdash; Midday Concert Series"
   url: "https://www.youtube.com/watch?v=9_-j23sPmZg"
   btn_label: "YouTube Link"
   btn_class: "btn--info"
