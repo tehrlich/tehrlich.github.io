@@ -116,8 +116,8 @@ author:
   name             : #"Tyler Ehrlich"
   avatar           : "/assets/images/headshot.jpg"
   # bio              : "Educator, Musician, Conductor"
-  location         : "Austin, TX"
-  email            : "tehrlich@utexas.edu"
+  location         : "Cincinnati, OH"
+  email            : "tylerehrlichmusic@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
